@@ -1,4 +1,4 @@
-# Dashboard-for-Google-Play-Store-Apps
+# Dashboard for Google Play Store Apps
 demo: https://drive.google.com/file/d/1m-EgsPgP30YkaP2_3osDpOuY0VoPaxll/view?usp=drive_link
 ## Description
 Analyzing the Google Play Store Apps dataset, the objectives are to determine the correlations between ratings, 
